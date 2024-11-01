@@ -3,7 +3,7 @@
 # 💫About Me :
 - 📫 How to reach me: Message me 
 - 😄 Pronouns: He/him 
-- ⚡ Fun fact: I wanna work with golang but now i must type laravel =))
+- ⚡ Fun fact: I like coding, maybe....
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/_luongtuan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tunn38) 
