@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=eae1f5&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Lương+Tuấn.;Nice+to+meet+you)](https://github.com/CodingAce123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=eae1f5&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hello+%F0%9F%91%8B+My+name+is+Chil.;Nice+to+meet+you)](https://github.com/CodingAce123)
 
 # 💫About Me :
 - 📫 How to reach me: Message me 
